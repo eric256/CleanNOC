@@ -1,0 +1,9 @@
+2016-04-16  1.1.1
+=================
+- Started CHANGES.TXT
+- Added Host address to Hosts and Service checks to make it easier to address root causes - EH
+- Added Host alias to service checks
+
+2016-11-01 1.2.0
+================
+- Cleaning up code in prepreation to put in git repo
