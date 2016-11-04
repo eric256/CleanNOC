@@ -1,5 +1,5 @@
 # CleanNOC
-Clean NOC Screen for Nagios
+Clean NOC Screen for Nagios XI
 
 ## Overview
 This provides a clean concise view of alerts for Hosts and Services as a Nagios XI component
